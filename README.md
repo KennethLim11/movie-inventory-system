@@ -1,5 +1,5 @@
 # movie-inventory-system
- A movie inventory system that allows cusotmers to rent videos and keep track of customer records as well
+ A movie inventory system that manages the available movies of a store. It allows customers to rent movies and keep track of customer records as well.
 
  ## functions
  1. Add a new video
@@ -11,7 +11,7 @@
  7. Open Customer Menu
  8. Save and exit
 
- ### Under customer menu
+ ### under customer menu
  1. Add new customer
  2. Show customer details
  3. List of videos rented by a customer
