@@ -1,0 +1,41 @@
+Customer ID: 1
+Name: Peter
+Address: Manila City
+
+Customer ID: 2
+Name: John
+Address: Quezon City
+
+Customer ID: 3
+Name: Matthew
+Address: Quezon City
+
+Customer ID: 4
+Name: Mike
+Address: Mandaluyong City
+
+Customer ID: 5
+Name: Kyrie
+Address: Pasay City
+
+Customer ID: 6
+Name: Michael 
+Address: Makati City
+
+Customer ID: 7
+Name: Sheldon
+Address: Pasay City
+
+Customer ID: 8
+Name: Andrei 
+Address: Manila City
+
+Customer ID: 9
+Name: Ember
+Address: Manila City
+
+Customer ID: 10
+Name: Lebron
+Address: Quezon City
+
+
